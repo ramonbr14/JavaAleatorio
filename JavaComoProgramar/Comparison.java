@@ -1,6 +1,7 @@
+//Pagina 44
 import java.util.Scanner;
 
-public class main
+public class Comparison
 {
     public static void main ( String[] args)
     {
